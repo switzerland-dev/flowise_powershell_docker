@@ -1,4 +1,4 @@
-$DbPath = "C:\flowise_db"
+$DbPath = "$HOME\flowise_db"
 $Port = "3000:3000"
 if (!(Test-Path $dbPath)) {
     New-Item -ItemType Directory -Path $DbPath | Out-Null
