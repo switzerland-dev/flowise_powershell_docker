@@ -2,10 +2,9 @@
 
 A lightweight PowerShell script for automated [Flowise](https://flowiseai.com) deployment on Windows via Docker.
 
-[![License: MIT](<img width="1046" height="583" alt="image" src="https://github.com/user-attachments/assets/cbee98dc-a2ab-4c16-aac0-fe3928d30e5e" />)
-![PowerShell](<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/edd57169-5814-4a14-bb1b-36d0e1c1010e" />)
-![Docker](<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/5395cac9-7d3b-454b-983e-fc889ee35635" />
-)
+[![License: MIT](https://opensource.org/license/mit)
+![PowerShell](https://github.com/powershell/powershell)
+![Docker](https://www.docker.com/)
 
 ## 🛠 Prerequisites
 *   Windows 10/11
