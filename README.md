@@ -19,13 +19,14 @@ Run the following command in PowerShell (Admin) to automatically set up folders 
 ```powershell
 iwr -useb "https://raw.githubusercontent.com/switzerland-dev/flowise_installer_via_docker/refs/heads/main/flowise-installer.ps1" | iex
 ```
+* In the future, launch via the automatically created Docker Dekstop container.
 ---
 ## Pro way
 1. Download the release
 2. Extract the archive
 3. Ensure Docker is running
 4. Run flowise_installer.ps1 as Administrator
-
+5. In the future, launch via the automatically created Docker Dekstop container.
 * You can customize this script, such as changing the installation folder location.
   ---
 ## Update:
